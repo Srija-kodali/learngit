@@ -1,2 +1,10 @@
-# learngit
-learning git 
+JIRA:
+ What Jira is really: Jira is a project management application that facilitates easy work planning, tracking, and release for teams. 
+Jira features a planning row that facilitates work division for teams. 
+The row includes a list of epic stories here as well as a Backlog that specifies the work that needs to be done today, tomorrow, or in the future. An epic is an abstract representation of precisely what a client is requesting, and it is a collection of several major body works divided into a limited number of stories or issues.                                                                                           Additionally, it has a board that shows a selection of columns that aid teams in finishing their work.These columns can be altered based on the task.                                                                                                                            It also features issues, goals, a calendar, and a list. where the sprint timeline is displayed in Calander Here, "sprint" refers to a list of tasks that must be completed in a set amount of time—a few weeks or longer—all of which are specified in the list. List compiles all of the work for your project into a single list that can be easily reviewed and arranged according to fields. 
+
+AGILE**: 
+Working with scrum and agile: Agile is a project management philosophy. 
+Agile technique calls for ongoing client communication and input. 
+One of the numerous methodologies in agile is scrum, which is a framework for putting team agile ideas into practice. Agile is renowned for segmenting projects into manageable units called sprints. The scrum team organises a crucial role: The scrum master is the manager; the development team is the group of all employees; the product owner is the client-side representative or broker; and
+Agile is an incremental and iterative process, so you can add elements or make adjustments and then go through the process again.
